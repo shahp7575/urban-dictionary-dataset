@@ -144,7 +144,7 @@ experimental/eda_and_cleaning_2.ipynb
 my_urban_model/
 
 # scraper
-scraper/
+scraper/Scrape_Urban.ipynb
 
 # data
 data/
